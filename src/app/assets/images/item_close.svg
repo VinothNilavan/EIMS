@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_13972" data-name="Group 13972" transform="translate(1903 -22194)">
+    <g id="Group_13934" data-name="Group 13934" transform="translate(-3777.844 21530.156)">
+      <circle id="Ellipse_1544" data-name="Ellipse 1544" cx="10" cy="10" r="10" transform="translate(1879.844 668.844)" fill="#FFFFFF"/>
+      <path id="Union_33" data-name="Union 33" d="M6.27,7.843c-.476-.429-1.209-1.142-2-1.932-.792.789-1.525,1.5-2,1.932S1.1,8.668.436,8A1.285,1.285,0,0,1,.594,6.169s.852-.886,1.945-2C1.3,2.906.266,1.839.266,1.839-.186,1.387-.017.788.436.335a1.212,1.212,0,0,1,1.673,0c.554.5,1.342,1.273,2.159,2.089C5.086,1.609,5.873.839,6.428.335A1.212,1.212,0,0,1,8.1.335c.452.452.622,1.052.17,1.5,0,0-1.03,1.067-2.274,2.331,1.093,1.114,1.946,2,1.946,2A1.284,1.284,0,0,1,8.1,8a1.058,1.058,0,0,1-.76.354A1.759,1.759,0,0,1,6.27,7.843Z" transform="translate(1885.705 674.946)" fill="#000000"/>
+    </g>
+    <g id="Group_13970" data-name="Group 13970" transform="translate(40 10)">
+      <g id="Chat_Icon" data-name="Chat Icon" transform="translate(-1943.243 22184)">
+        <rect id="bound" width="30" height="30" transform="translate(0.243)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

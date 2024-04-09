@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146.173" height="26.879" viewBox="0 0 146.173 26.879">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_15684" data-name="Path 15684" d="M9.615-75.1A8.727,8.727,0,0,0,.9-66.385,8.712,8.712,0,0,0,9.615-57.67a8.727,8.727,0,0,0,8.715-8.715A8.727,8.727,0,0,0,9.615-75.1Zm3.9,10.007h-4.3a.832.832,0,0,1-.822-.822v-4.933a.832.832,0,0,1,.822-.822.832.832,0,0,1,.822.822v4.087h3.5a.832.832,0,0,1,.822.822A.857.857,0,0,1,13.514-65.093Z" transform="translate(-0.9 75.1)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13923" data-name="Group 13923" transform="translate(-35 -3185)">
+    <g id="Group_13636" data-name="Group 13636" transform="translate(11435 -4513)">
+      <path id="Path_16825" data-name="Path 16825" d="M0,0H146.173L136.047,12.826l10.126,14.053H0L10.126,14.171Z" transform="translate(-11400 7698)" fill="#9f11ff"/>
+      <text id="Timed_Test" data-name="Timed Test" transform="translate(-11349 7716)" fill="#fff" font-size="14" font-family="BalooThambi-Regular, Baloo Thambi"><tspan x="0" y="0">Timed Test</tspan></text>
+      <g id="Group_13581" data-name="Group 13581" transform="translate(-11376.516 7777.484)">
+        <g id="Group_11636" data-name="Group 11636" transform="translate(0.9 -75.1)" clip-path="url(#clip-path)">
+          <path id="Path_15683" data-name="Path 15683" d="M-4.1-80.1H15.679v19.779H-4.1Z" transform="translate(2.925 78.925)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

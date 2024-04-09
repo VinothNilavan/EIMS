@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_13976" data-name="Group 13976" transform="translate(1765 -22078)">
+    <g id="Group_13975" data-name="Group 13975" transform="translate(-43 -33.163)">
+      <g id="Ellipse_2570" data-name="Ellipse 2570" transform="translate(-1715 22120)" fill="#fff" stroke="#fff" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.5" fill="none"/>
+      </g>
+      <path id="noun_wrong_1892752" d="M21.631,19.962a.624.624,0,0,1,0,.875l-.794.794a.624.624,0,0,1-.875,0L16.4,18.076l-3.562,3.562a.624.624,0,0,1-.875,0l-.794-.794a.624.624,0,0,1,0-.875L14.724,16.4l-3.562-3.562a.624.624,0,0,1,0-.875l.794-.794a.624.624,0,0,1,.875,0L16.4,14.724l3.562-3.562a.624.624,0,0,1,.875,0l.794.794a.624.624,0,0,1,0,.875L18.076,16.4ZM16.4,4.58A11.82,11.82,0,1,0,28.219,16.4,11.82,11.82,0,0,0,16.4,4.58Z" transform="translate(-1723.58 22110.582)" fill="#ff3a00"/>
+    </g>
+    <g id="Group_13970" data-name="Group 13970" transform="translate(178 -106)">
+      <g id="Chat_Icon" data-name="Chat Icon" transform="translate(-1943.243 22184)">
+        <rect id="bound" width="30" height="30" transform="translate(0.243)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

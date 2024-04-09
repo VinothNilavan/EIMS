@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="148" viewBox="0 0 124 148">
+  <g id="Button_BG" data-name="Button BG" transform="translate(-329 -642)">
+    <g id="Group_16368" data-name="Group 16368">
+      <g id="Group_16364" data-name="Group 16364" transform="translate(-47 328)">
+        <rect id="Rectangle_4398" data-name="Rectangle 4398" width="124" height="143" rx="19" transform="translate(376 319)" fill="#dee2ea"/>
+        <rect id="Rectangle_4399" data-name="Rectangle 4399" width="124" height="141" rx="19" transform="translate(376 314)" fill="#fcfcfc"/>
+        <path id="Rectangle_4402" data-name="Rectangle 4402" d="M0,0H124V21a19,19,0,0,1-19,19H19A19,19,0,0,1,0,21Z" transform="translate(376 415)" fill="#edf0f4"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+import {
+  Cat,
+  Dog,
+  Lion,
+  Bear,
+  Rabbit,
+  Panda,
+  Apple,
+  Watermelon,
+  Pineapple,
+  Mango,
+  Banana,
+  Strawberry,
+  Pizza,
+  Cupcake,
+  Lollipop,
+  Icecream,
+  Doghnut,
+  Chocolate,
+} from '@images';
+
+export default {
+  animals: {
+    svg1: Cat,
+    svg2: Dog,
+    svg3: Rabbit,
+    svg4: Lion,
+    svg5: Bear,
+    svg6: Panda,
+  },
+  fruits: {
+    svg1: Apple,
+    svg2: Watermelon,
+    svg3: Pineapple,
+    svg4: Mango,
+    svg5: Strawberry,
+    svg6: Banana,
+  },
+  food: {
+    svg1: Chocolate,
+    svg2: Cupcake,
+    svg3: Lollipop,
+    svg4: Icecream,
+    svg5: Doghnut,
+    svg6: Pizza,
+  },
+};

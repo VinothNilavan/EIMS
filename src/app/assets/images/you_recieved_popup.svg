@@ -1,0 +1,20 @@
+<svg id="popup_you_received_unit" xmlns="http://www.w3.org/2000/svg" width="180" height="108" viewBox="0 0 180 108">
+  <g id="Group_12280" data-name="Group 12280" transform="translate(14.4 17.1)">
+    <text id="Received" transform="translate(74 58.6)" fill="#93da27" font-size="35" font-family="BalooThambi-Regular, Baloo Thambi" letter-spacing="0.012em"><tspan x="-73.622" y="0">Received</tspan></text>
+    <text id="You" transform="translate(75.2 28)" fill="#464646" font-size="27" font-family="BalooThambi-Regular, Baloo Thambi" letter-spacing="0.012em"><tspan x="-23.233" y="0">You</tspan></text>
+  </g>
+  <g id="Group_12281" data-name="Group 12281" transform="translate(15.246 13.461)">
+    <path id="Path_9537" data-name="Path 9537" d="M22.011,30.924a3.735,3.735,0,0,0-4.548-2.816,3.592,3.592,0,0,0-2.6,4.765,3.735,3.735,0,0,0,4.548,2.816h0C21.578,35.039,22.444,33.09,22.011,30.924ZM16.163,4.5,6.2,7.316l8.447,19.06,4.332-1.083Z" transform="translate(-6.2 -4.5)" fill="#fcda39"/>
+  </g>
+  <path id="Path_16148" data-name="Path 16148" d="M.487,11.479a1.447,1.447,0,0,1,2.166,0,1.447,1.447,0,0,1,0,2.166,1.447,1.447,0,0,1-2.166,0A1.447,1.447,0,0,1,.487,11.479ZM3.52,9.53,11.1,0,15,3.9,4.819,10.829Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 159.166, 62.8)" fill="#fedc1a"/>
+  <g id="Group_12283" data-name="Group 12283" transform="translate(137.979 20.865)">
+    <path id="Path_9540" data-name="Path 9540" d="M34.064,6.732a5.4,5.4,0,0,1,1.949,10.613,5.451,5.451,0,0,1-6.281-4.332A5.7,5.7,0,0,1,34.064,6.732Z" transform="translate(-22.368 -6.672)" fill="#81c6ff"/>
+    <path id="Path_9541" data-name="Path 9541" d="M29.667,14.218A2.81,2.81,0,0,1,32.7,16.167,2.81,2.81,0,0,1,30.75,19.2a2.81,2.81,0,0,1-3.032-1.949A2.556,2.556,0,0,1,29.667,14.218Z" transform="translate(-24.686 2.086)" fill="#81c6ff"/>
+    <path id="Path_9542" data-name="Path 9542" d="M26.3,19.9a1.1,1.1,0,1,1,1.3.866A.954.954,0,0,1,26.3,19.9Z" transform="translate(-26.3 7.234)" fill="#81c6ff"/>
+  </g>
+  <g id="Group_12284" data-name="Group 12284" transform="translate(0 32.353)">
+    <path id="Path_9543" data-name="Path 9543" d="M.009,19.415A4.5,4.5,0,0,1,4.557,15.3a4.5,4.5,0,0,1,4.115,4.548,4.5,4.5,0,0,1-4.548,4.115A4.343,4.343,0,0,1,.009,19.415Z" transform="translate(0.008 -15.3)" fill="#84c7fc"/>
+    <path id="Path_9544" data-name="Path 9544" d="M5.218,22.049A2.137,2.137,0,0,1,7.384,20.1a2.137,2.137,0,0,1,1.949,2.166,2.538,2.538,0,0,1-2.382,1.949A1.938,1.938,0,0,1,5.218,22.049Z" transform="translate(6.061 -9.704)" fill="#84c7fc"/>
+  </g>
+  <rect id="bound" width="180" height="108" fill="none"/>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029442371211",
+    "firebase_url": "https://edicine-94c81.firebaseio.com",
+    "project_id": "edicine-94c81",
+    "storage_bucket": "edicine-94c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029442371211:android:1ab08285a8222d2ee7de8e",
+        "android_client_info": {
+          "package_name": "com.mindspark.edicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029442371211-ipu5dpg708evd4bqltbrc2gki7ilhkmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNEysveTHX-VOJ99uxwpT-XnS2U3Z6eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029442371211-ipu5dpg708evd4bqltbrc2gki7ilhkmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029442371211-snivu5rgrmuu3dfo51s4762cbrflusku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mindspark.edicine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

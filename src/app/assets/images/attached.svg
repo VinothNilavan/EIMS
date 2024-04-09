@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_13966" data-name="Group 13966" transform="translate(1940 -22143)">
+    <g id="noun_Attachment_150411" transform="matrix(0.259, 0.966, -0.966, 0.259, -1915.22, 22143.246)">
+      <path id="Path_14765" data-name="Path 14765" d="M4.438,23.752a4.446,4.446,0,0,0,4.438-4.48V6.213a2.96,2.96,0,1,0-5.917,0v12a.845.845,0,1,0,1.691,0v-12a1.271,1.271,0,1,1,2.536,0V19.272a2.747,2.747,0,1,1-5.494,0V5.959A4.275,4.275,0,0,1,5.917,1.691a4.248,4.248,0,0,1,4.226,4.269V18.216a.845.845,0,1,0,1.691,0V5.959A5.917,5.917,0,1,0,0,5.959V19.23A4.483,4.483,0,0,0,4.438,23.752Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 8.613, 0.261)" fill="#356fbe" stroke="#fff" stroke-width="0.5"/>
+    </g>
+    <g id="Chat_Icon" data-name="Chat Icon" transform="translate(-1940.243 22143)">
+      <rect id="bound" width="30" height="30" transform="translate(0.243)" fill="none"/>
+    </g>
+  </g>
+</svg>

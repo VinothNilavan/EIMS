@@ -1,0 +1,11 @@
+<svg id="selected-highlight" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84.901" height="57.264" viewBox="0 0 84.901 57.264">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd6f43" stop-opacity="0"/>
+      <stop offset="0.527" stop-color="#fd6f43" stop-opacity="0.396"/>
+      <stop offset="1" stop-color="#fd6f43" stop-opacity="0.776"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_86518" data-name="Path 86518" d="M84.9,0H0L18.457,54.764H66.445Z" fill="url(#linear-gradient)"/>
+  <ellipse id="Ellipse_3601" data-name="Ellipse 3601" cx="24" cy="2.5" rx="24" ry="2.5" transform="translate(18.46 52.264)" fill="#ea6841"/>
+</svg>

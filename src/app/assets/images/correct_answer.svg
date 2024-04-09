@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_13974" data-name="Group 13974" transform="translate(1806 -22075)">
+    <g id="Group_11758" data-name="Group 11758" transform="translate(-2155.109 21120.092)">
+      <path id="noun_wrong_1892752" d="M16.672,4.58A12.092,12.092,0,1,0,28.764,16.672,12.092,12.092,0,0,0,16.672,4.58Z" transform="translate(347.529 953.329)" fill="#00d395"/>
+      <g id="Check_Icon" data-name="Check Icon" transform="matrix(1, 0.017, -0.017, 1, 354.511, 959.955)">
+        <path id="Shape" d="M0,0H20.483V20.482H0Z" transform="translate(0 0)" fill="none"/>
+        <path id="Path_94" data-name="Path 94" d="M1.5,9.941A.853.853,0,1,1,.2,8.835L7.457.3A.853.853,0,0,1,8.675.216l3.84,3.414a.853.853,0,0,1-1.134,1.276L8.193,2.071Z" transform="translate(16.642 15.362) rotate(180)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_13970" data-name="Group 13970" transform="translate(137 -109)">
+      <g id="Chat_Icon" data-name="Chat Icon" transform="translate(-1943.243 22184)">
+        <rect id="bound" width="30" height="30" transform="translate(0.243)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+{
+    "extends": "@react-native/typescript-config/tsconfig.json",
+    "jsx": "react-native",
+    "compilerOptions": {
+      "jsx": "react-native",
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "node", 
+      "baseUrl": "./",
+      "paths": {
+        "@navigation/RootNavigator" : ["src/app/navigation/*"],
+        "@utils": ["src/app/utils"],
+        "@utils/*": ["src/app/utils/*"],
+        "@hoc/*": ["src/app/hoc/*"],
+        "@hoc": ["src/app/hoc"],
+        "@contexts": ["src/app/contexts"],
+        "@navigation": ["src/app/navigation"],
+        "@mobx/hooks": ["src/app/mobx/hooks"],
+        "@mobx/*": ["src/app/mobx/*"],
+         "*": ["src/app/*"],
+         "navigation": ["navigation/*"],
+         "@components/*": ["src/app/components/*"],
+         "@components": ["src/app/components"],
+      },
+    }
+}

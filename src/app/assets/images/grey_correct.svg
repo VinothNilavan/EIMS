@@ -1,0 +1,7 @@
+<svg id="btn_correct_grey" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="noun_wrong_1892752" d="M16.58,4.58a12,12,0,1,0,12,12A12,12,0,0,0,16.58,4.58Z" transform="translate(-4.58 -4.58)" fill="#9d9d9d"/>
+  <g id="Check_Icon" data-name="Check Icon" transform="matrix(1, 0.017, -0.017, 1, 2.402, 2.046)">
+    <path id="Shape" d="M0,0H20.483V20.482H0Z" transform="translate(0 0)" fill="none"/>
+    <path id="Path_94" data-name="Path 94" d="M1.5,9.941A.853.853,0,1,1,.2,8.835L7.457.3A.853.853,0,0,1,8.675.216l3.84,3.414a.853.853,0,0,1-1.134,1.276L8.193,2.071Z" transform="translate(16.642 15.362) rotate(180)" fill="#f5f5f5"/>
+  </g>
+</svg>

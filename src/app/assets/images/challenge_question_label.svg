@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="205.173" height="26.879" viewBox="0 0 205.173 26.879">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_15682" data-name="Path 15682" d="M18.181-59.3,11.872-70.117V-71.36h3.185a.455.455,0,0,0,.322-.133.455.455,0,0,0,.133-.322v-2.73a.455.455,0,0,0-.133-.322A.455.455,0,0,0,15.058-75h-3.64a.455.455,0,0,0-.322.133.455.455,0,0,0-.133.322v4.413L7.706-65.249,5.368-67.586a.456.456,0,0,0-.385-.129.456.456,0,0,0-.335.229L.1-59.295a.456.456,0,0,0,.006.452.455.455,0,0,0,.392.224h17.29a.455.455,0,0,0,.4-.228.455.455,0,0,0,0-.456Z" transform="translate(-0.041 75)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="challenge_question_lable" data-name="challenge question lable" transform="translate(848.305 22078)">
+    <path id="Path_15680" data-name="Path 15680" d="M0,0H205.173L195.047,12.826l10.126,14.053H0L10.126,14.171Z" transform="translate(-848.305 -22078)" fill="#154bff"/>
+    <g id="Group_11631" data-name="Group 11631" transform="translate(-825.197 -21998.715)">
+      <g id="Group_11630" data-name="Group 11630" transform="translate(0.041 -75)" clip-path="url(#clip-path)">
+        <path id="Path_15681" data-name="Path 15681" d="M-4.959-80H15.427v18.566H-4.959Z" transform="translate(3.867 78.908)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

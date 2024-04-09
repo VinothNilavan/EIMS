@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160.173" height="26.879" viewBox="0 0 144.173 26.879">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_15684" data-name="Path 15684" d="M9.615-75.1A8.727,8.727,0,0,0,.9-66.385,8.712,8.712,0,0,0,9.615-57.67a8.727,8.727,0,0,0,8.715-8.715A8.727,8.727,0,0,0,9.615-75.1Zm3.9,10.007h-4.3a.832.832,0,0,1-.822-.822v-4.933a.832.832,0,0,1,.822-.822.832.832,0,0,1,.822.822v4.087h3.5a.832.832,0,0,1,.822.822.857.857,0,0,1-.845.846Z" transform="translate(-0.9 75.1)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="worksheet_lable" data-name="worksheet lable" transform="translate(-366.695 22078)">
+    <path id="Path_15680" data-name="Path 15680" d="M0,0H144.173L134.047,12.826l10.126,14.053H0L10.126,14.171Z" transform="translate(366.695 -22078)" fill="#00d264"/>
+    <g id="Group_11636" data-name="Group 11636" transform="translate(383.384 -22073)" clip-path="url(#clip-path)">
+      <path id="Path_15683" data-name="Path 15683" d="M-4.1-80.1H15.679v19.779H-4.1Z" transform="translate(2.925 78.925)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
